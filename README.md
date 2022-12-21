@@ -58,10 +58,13 @@
 
 ## Лабораторная работа №3
 
-1. Настроить сеть в Сisco Packet Tracer. Packet Tracer
-2. Отчет по лабораторной работе доступен по ссылке: [Отчет]()
+1. Настроить сеть в Сisco Packet Tracer
+2. Отчет по лабораторной работе доступен по ссылке: [Отчет](https://github.com/mgcolossus/stankin-init2022/blob/master/%D0%9B%D0%A03.pdf)
 
 ## Подготовка к экзамену
 ### Билет № 28
 
 Ответ на экзаменационный билет: [Билет №28](https://github.com/stankin/inet-2022/wiki/exam28)
+
+Ответ на экзаменационный билет: [Diff](https://github.com/stankin/inet-2022/wiki/exam28/_compare/2d235aad9e756420fc813760e442af9d4511e7d5...3887555715eee45457fc20b65a2e130d62c64166
+)
